@@ -1,3 +1,3 @@
 Pillow>=9.4.0
 python-Levenshtein>=0.20.9
-vaik-text-recognition-trt-inference @ git+https://github.com/vaik-info/vaik-text-recognition-trt-inference.git@0e337183749e6a4bb12589436b2c0505faf8502a
+vaik-text-recognition-trt-inference @ git+https://github.com/vaik-info/vaik-text-recognition-trt-inference.git@d4ba651fdfd7aa17abedd2b994a0a8ec8fb5495f
